@@ -1,2 +1,2 @@
 # Master-Thesis
-The data and code accompanying my research master thesis: Exploring text mining techniques to structure a digitised catalogue.
+This GitHub contains the data and code for the extraction of metadata using the RB-REGX technique from the 1971 volume of the Brinkman catalogue of books. The extracted data from the other volumes is also available, and my master thesis as well.
